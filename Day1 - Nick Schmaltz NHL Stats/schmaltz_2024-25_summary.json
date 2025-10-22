@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "assists": 43,
+      "evGoals": 11,
+      "evPoints": 38,
+      "faceoffWinPct": 0.49202,
+      "gameWinningGoals": 3,
+      "gamesPlayed": 82,
+      "goals": 20,
+      "lastName": "Schmaltz",
+      "otGoals": 0,
+      "penaltyMinutes": 14,
+      "playerId": 8477951,
+      "plusMinus": -15,
+      "points": 63,
+      "pointsPerGame": 0.76829,
+      "positionCode": "C",
+      "ppGoals": 9,
+      "ppPoints": 25,
+      "seasonId": 20242025,
+      "shGoals": 0,
+      "shPoints": 0,
+      "shootingPct": 0.10752,
+      "shootsCatches": "R",
+      "shots": 186,
+      "skaterFullName": "Nick Schmaltz",
+      "teamAbbrevs": "UTA",
+      "timeOnIcePerGame": 1115.2926
+    }
+  ],
+  "total": 1
+}
