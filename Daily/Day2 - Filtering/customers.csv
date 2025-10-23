@@ -1,0 +1,8 @@
+customer_id,name,state,signup_date,lifetime_value
+1,John Smith,UT,2024-01-15,1250.50
+2,Jane Doe,CA,2024-02-20,890.25
+3,Bob Johnson,UT,2024-01-30,2100.00
+4,Sarah Williams,TX,2024-03-10,450.75
+5,Mike Davis,CA,2024-02-05,
+6,Emily Brown,UT,2024-03-15,750.00
+7,David Lee,UT,2024-01-20,1500.25

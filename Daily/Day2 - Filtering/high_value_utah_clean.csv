@@ -1,0 +1,4 @@
+customer_id,name,state,signup_date,lifetime_value
+1,John Smith,UT,2024-01-15,1250.5
+3,Bob Johnson,UT,2024-01-30,2100.0
+7,David Lee,UT,2024-01-20,1500.25
