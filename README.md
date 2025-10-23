@@ -1,4 +1,3 @@
-# python-stuff
 ## Python Stuff
 
 ### What's this?
