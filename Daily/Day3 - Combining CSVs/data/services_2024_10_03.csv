@@ -1,0 +1,5 @@
+service_id,technician,customer_state,service_type,revenue
+7,Charlie,CA,Initial Treatment,125.00
+8,Alice,UT,Reservice,85.50
+9,Dave,TX,Initial Treatment,125.00
+10,Bob,CA,Reservice,85.50
